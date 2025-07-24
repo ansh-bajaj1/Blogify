@@ -48,21 +48,4 @@
 
 ---
 
-## Installation
-```bash
-# Clone this repository
-git clone https://github.com/ansh-bajaj1/Blogify.git
 
-# Navigate into the project folder
-cd Blogify
-
-# Install dependencies
-npm install
-
-# Create a .env file and add the following:
-PORT=8000
-MONGO_URL=your_mongo_connection_string
-JWT_SECRET=your_secret_key
-
-# Start the server
-npm start
